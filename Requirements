@@ -1,0 +1,16 @@
+# 🖥️ Virtual Mouse Project - Requirements
+
+# 📸 OpenCV for computer vision tasks
+opencv-python==4.5.1.48
+
+# 🤖 MediaPipe for hand gesture recognition
+mediapipe==0.8.7
+
+# 🖱️ PyAutoGUI for controlling the mouse and keyboard
+pyautogui==0.9.52
+
+# 🔢 NumPy for numerical operations
+numpy==1.19.5
+
+# 🛠️ To install the above dependencies, run:
+# pip install -r requirements.txt
